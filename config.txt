@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
+token=NDk3NzY4NDAyOTEyMjgwNTc3.Dpj-kA.uaygQd8V3KZPY5ktli29Udxffg8
 owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+prefix=#
+game=Elegant Magasin.
 stayinchannel=true
 songinstatus=true
